@@ -1,7 +1,7 @@
 # UiPath-Experiment-2
 # Date:05/05/2025
-# Register No.:212224040302
-# Name: S Sesha Raghavan
+# Register No.:212224040346
+# Name: Syed Abu Hanifa. L
 # AIM:
 Get input of name from user and if name is "RAM", Display message as "Welcome Mr. Ramachandran" otherwise "Welcome " followed by Given name.  When using Switch case, use different message for every input it gets.  
 # Requirements:
