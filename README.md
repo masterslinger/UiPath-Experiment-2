@@ -1,5 +1,5 @@
 # UiPath-Experiment-2
-# Date:
+# Date:05/05/2025
 # Register No.:212224040302
 # Name: S Sesha Raghavan
 # AIM:
@@ -38,3 +38,6 @@ Case "VIJAY"
 Default Case
 → Message Box: "Welcome " + userName
 # Workflow Process Image:
+![Screenshot 2025-05-05 092027](https://github.com/user-attachments/assets/564cdc37-66c9-41b1-9a68-6f60a83e3ba2)
+
+![Screenshot 2025-05-05 092140](https://github.com/user-attachments/assets/de93573d-536c-47a0-9ed0-b62a30ecb10b)
